@@ -1,0 +1,141 @@
+header{
+    display: flex; 
+    margin-left: 30px; 
+    justify-content: space-between;
+    padding: 20px 80px;
+} 
+.div3{
+    margin-top: 150px;  
+    margin-left: 63px;
+} 
+.div4{
+    margin-left: 63px;
+}
+a{
+
+ text-decoration: none;
+ margin-left: 15px; 
+ color: black;
+} 
+.b1 {
+    background: red;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 8px; 
+    border: none;
+}
+
+.b2 {
+    padding: 12px 25px;
+    border: 1px solid red;
+    background: white;
+    color: red;
+    border-radius: 8px;
+    margin-left: 10px;
+} 
+img{
+    width: 522px; 
+    margin-left:760px; 
+    margin-top: -330px;
+}
+fieldset{
+    width: 222px;
+    border: 1px solid;
+    height: 320px;
+}
+h1{
+margin-top: 64px;
+}
+h3{
+    color: rgb(235, 2, 2);
+} 
+.div13{
+    margin-left: 400px;
+    margin-top: -355px;
+}
+.div14{
+    margin-left: 800px;
+    margin-top: -340px;
+} 
+.div11{  
+    text-align: center;
+} 
+.div6{
+    text-align: center;
+} 
+body{
+    background-color: rgb(245, 241, 235);
+    position: absolute;
+}
+.div7{
+    margin-top:372px; 
+    margin-left:-700px;
+}
+.div8{
+    margin-left:650px;
+    margin-top: -300px;
+} .div9{
+    text-align: center;
+}
+
+.div20{
+    margin-left: -622px;
+    margin-top: 322px;
+}
+.div21{
+    margin-left:-333px ;
+    margin-top: -22px;
+}
+.div23{
+    margin-left: 333px;
+    margin-top: -24px;
+} .div22{
+    margin-top:  -10px;
+} 
+.div120{
+    margin-left: 150px;
+    margin-top: -52px;
+} 
+.div121{
+     margin-top: -135px;
+     margin-left: 430px;
+}
+.div122{
+    margin-left: 770px;
+    margin-top: -140px;
+} 
+.div123{
+    margin-left: 1099px;
+     margin-top:-140px ;
+} 
+.div201{
+    margin-left: 32px;
+} 
+.div202{
+   margin-left: 562px;
+   margin-top: -222px;
+} 
+.div203{
+   margin-left: 762px;
+   margin-top: -222px;
+}
+.div204{
+   margin-left: 1000px;
+   margin-top: -222px;
+} 
+.div205{
+    text-align: center;
+}
+.div222{
+   padding: 3px;
+   border-radius: 5px;
+   height: 22px;
+   width: 180px;
+   background-color: rgb(240, 5, 5);
+   color: white;
+   border: none;
+}
+input{
+    border-radius: 5px;
+    padding: 2px;
+}
